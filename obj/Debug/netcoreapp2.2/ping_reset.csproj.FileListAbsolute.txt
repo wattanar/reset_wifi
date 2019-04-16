@@ -1,0 +1,11 @@
+c:\dev\ping_reset\bin\Debug\netcoreapp2.2\ping_reset.deps.json
+c:\dev\ping_reset\bin\Debug\netcoreapp2.2\ping_reset.runtimeconfig.json
+c:\dev\ping_reset\bin\Debug\netcoreapp2.2\ping_reset.runtimeconfig.dev.json
+c:\dev\ping_reset\bin\Debug\netcoreapp2.2\ping_reset.dll
+c:\dev\ping_reset\bin\Debug\netcoreapp2.2\ping_reset.pdb
+c:\dev\ping_reset\obj\Debug\netcoreapp2.2\ping_reset.csprojAssemblyReference.cache
+c:\dev\ping_reset\obj\Debug\netcoreapp2.2\ping_reset.csproj.CoreCompileInputs.cache
+c:\dev\ping_reset\obj\Debug\netcoreapp2.2\ping_reset.AssemblyInfoInputs.cache
+c:\dev\ping_reset\obj\Debug\netcoreapp2.2\ping_reset.AssemblyInfo.cs
+c:\dev\ping_reset\obj\Debug\netcoreapp2.2\ping_reset.dll
+c:\dev\ping_reset\obj\Debug\netcoreapp2.2\ping_reset.pdb
